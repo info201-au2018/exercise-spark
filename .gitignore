@@ -1,2 +1,7 @@
 *~
+.Rprofile
+
+# large data files we can recreate
+data/ercot-big.csv.bz2
+data/ercot-huge.csv.bz2
 
